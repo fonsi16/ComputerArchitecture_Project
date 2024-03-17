@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Users/afons/Desktop/TP1 Backup/PlacaMae_test_isim_beh.exe" -prj "D:/Users/afons/Desktop/TP1 Backup/PlacaMae_test_beh.prj" "work.PlacaMae_test" 

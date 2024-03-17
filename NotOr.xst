@@ -1,0 +1,5 @@
+set -tmpdir "D:/Users/afons/Desktop/TP1 Backup/xst/projnav.tmp"
+set -xsthdpdir "D:/Users/afons/Desktop/TP1 Backup/xst"
+elaborate
+-ifn NotOr.prj
+-ifmt mixed

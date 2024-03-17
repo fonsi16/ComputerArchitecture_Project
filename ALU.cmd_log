@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/Xilinx_ISE_DS_Win_14.7_1015_1/Projeto/ALU.xst" -ofn "D:/Users/afons/Desktop/Xilinx_ISE_DS_Win_14.7_1015_1/Projeto/ALU.syr" 

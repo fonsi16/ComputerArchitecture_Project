@@ -1,0 +1,2 @@
+vhdl isim_temp "Periferico_Saida.vhd"
+vhdl isim_temp "Periferico_Saida_test.vhd"

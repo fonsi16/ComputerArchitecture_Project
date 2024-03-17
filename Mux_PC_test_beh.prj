@@ -1,0 +1,2 @@
+vhdl work "Mux_PC.vhd"
+vhdl work "Mux_PC_test.vhd"

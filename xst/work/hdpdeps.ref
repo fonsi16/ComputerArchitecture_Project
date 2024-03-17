@@ -1,0 +1,86 @@
+V3 55
+FL "D:/Users/afons/Desktop/TP1 Backup/ALU.vhd" 2024/03/10.18:57:22 P.20131013
+EN work/ALU 1710489379 FL "D:/Users/afons/Desktop/TP1 Backup/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_SIGNED 1381692178
+AR work/ALU/Behavioral 1710489380 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/ALU.vhd" EN work/ALU 1710489379
+FL "D:/Users/afons/Desktop/TP1 Backup/Banco_Registos.vhd" 2024/03/01.11:46:43 P.20131013
+EN work/Banco_Registos 1710489377 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Banco_Registos.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Banco_Registos/Behavioral 1710489378 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Banco_Registos.vhd" \
+      EN work/Banco_Registos 1710489377
+FL "D:/Users/afons/Desktop/TP1 Backup/Memoria_Instrucoes.vhd" 2024/03/14.14:21:35 P.20131013
+EN work/Memoria_Instrucoes 1710489395 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Memoria_Instrucoes.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Memoria_Instrucoes/Behavioral 1710489396 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Memoria_Instrucoes.vhd" \
+      EN work/Memoria_Instrucoes 1710489395
+FL "D:/Users/afons/Desktop/TP1 Backup/Mux_PC.vhd" 2024/03/05.11:51:18 P.20131013
+EN work/Mux_PC 1710489385 FL "D:/Users/afons/Desktop/TP1 Backup/Mux_PC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Mux_PC/Behavioral 1710489386 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Mux_PC.vhd" EN work/Mux_PC 1710489385
+FL "D:/Users/afons/Desktop/TP1 Backup/Mux_R.vhd" 2024/03/10.18:57:23 P.20131013
+EN work/Mux_R 1710489375 FL "D:/Users/afons/Desktop/TP1 Backup/Mux_R.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Mux_R/Behavioral 1710489376 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Mux_R.vhd" EN work/Mux_R 1710489375
+FL "D:/Users/afons/Desktop/TP1 Backup/NotOr.vhd" 2024/03/10.22:40:10 P.20131013
+EN work/NotOr 1710489383 FL "D:/Users/afons/Desktop/TP1 Backup/NotOr.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/NotOr/DataFlow 1710489384 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/NotOr.vhd" EN work/NotOr 1710489383
+FL "D:/Users/afons/Desktop/TP1 Backup/PC.vhd" 2024/03/14.14:21:35 P.20131013
+EN work/PC 1710489387 FL "D:/Users/afons/Desktop/TP1 Backup/PC.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/PC/Behavioral 1710489388 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/PC.vhd" EN work/PC 1710489387
+FL "D:/Users/afons/Desktop/TP1 Backup/Periferico_Entrada.vhd" 2024/03/11.14:44:56 P.20131013
+EN work/Periferico_Entrada 1710489373 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Periferico_Entrada.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Periferico_Entrada/Behavioral 1710489374 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Periferico_Entrada.vhd" \
+      EN work/Periferico_Entrada 1710489373
+FL "D:/Users/afons/Desktop/TP1 Backup/Periferico_Saida.vhd" 2024/03/05.11:29:27 P.20131013
+EN work/Periferico_Saida 1710489391 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Periferico_Saida.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Periferico_Saida/Behavioral 1710489392 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Periferico_Saida.vhd" \
+      EN work/Periferico_Saida 1710489391
+FL "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.vhd" 2024/03/14.12:05:53 P.20131013
+EN work/Placa_Mae 1710489399 FL "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Placa_Mae/Struct 1710489400 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.vhd" EN work/Placa_Mae 1710489399 \
+      CP Processador CP Memoria_Instrucoes CP RAM
+FL "D:/Users/afons/Desktop/TP1 Backup/Processador.vhd" 2024/03/11.16:07:38 P.20131013
+EN work/Processador 1710489393 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Processador.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Processador/Struct 1710489394 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Processador.vhd" EN work/Processador 1710489393 \
+      CP Periferico_Entrada CP Mux_R CP Banco_Registos CP ALU CP Registo_Flags \
+      CP NotOr CP Mux_PC CP PC CP ROM CP Periferico_Saida
+FL "D:/Users/afons/Desktop/TP1 Backup/RAM.vhd" 2024/03/10.22:40:10 P.20131013
+EN work/RAM 1710489397 FL "D:/Users/afons/Desktop/TP1 Backup/RAM.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/RAM/Behavioral 1710489398 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/RAM.vhd" EN work/RAM 1710489397
+FL "D:/Users/afons/Desktop/TP1 Backup/Registo_Flags.vhd" 2024/03/05.11:12:34 P.20131013
+EN work/Registo_Flags 1710489381 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Registo_Flags.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Registo_Flags/Behavioral 1710489382 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/Registo_Flags.vhd" \
+      EN work/Registo_Flags 1710489381
+FL "D:/Users/afons/Desktop/TP1 Backup/ROM.vhd" 2024/03/12.19:53:16 P.20131013
+EN work/ROM 1710489389 FL "D:/Users/afons/Desktop/TP1 Backup/ROM.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ROM/Behavioral 1710489390 \
+      FL "D:/Users/afons/Desktop/TP1 Backup/ROM.vhd" EN work/ROM 1710489389

@@ -1,0 +1,49 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Users/afons/Desktop/TP1 Backup/PlacaMae_test_isim_beh.exe -prj D:/Users/afons/Desktop/TP1 Backup/PlacaMae_test_beh.prj work.PlacaMae_test 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/ROM.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Registo_Flags.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Periferico_Saida.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Periferico_Entrada.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/PC.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/NotOr.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Mux_R.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Mux_PC.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Banco_Registos.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/ALU.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/RAM.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Processador.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Memoria_Instrucoes.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.vhd" into library work
+Parsing VHDL file "D:/Users/afons/Desktop/TP1 Backup/PlacaMae_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_signed
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity Periferico_Entrada [periferico_entrada_default]
+Compiling architecture behavioral of entity Mux_R [mux_r_default]
+Compiling architecture behavioral of entity Banco_Registos [banco_registos_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Registo_Flags [registo_flags_default]
+Compiling architecture dataflow of entity NotOr [notor_default]
+Compiling architecture behavioral of entity Mux_PC [mux_pc_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture behavioral of entity ROM [rom_default]
+Compiling architecture behavioral of entity Periferico_Saida [periferico_saida_default]
+Compiling architecture struct of entity Processador [processador_default]
+Compiling architecture behavioral of entity Memoria_Instrucoes [memoria_instrucoes_default]
+Compiling architecture behavioral of entity RAM [ram_default]
+Compiling architecture struct of entity Placa_Mae [placa_mae_default]
+Compiling architecture behavior of entity placamae_test
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 35 VHDL Units
+Built simulation executable D:/Users/afons/Desktop/TP1 Backup/PlacaMae_test_isim_beh.exe
+Fuse Memory Usage: 37576 KB
+Fuse CPU Usage: 1530 ms

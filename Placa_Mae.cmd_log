@@ -1,0 +1,55 @@
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+vhdtdtfi -lib work ROM.vhd -lib work Registo_Flags.vhd -lib work Periferico_Saida.vhd -lib work Periferico_Entrada.vhd -lib work PC.vhd -lib work NotOr.vhd -lib work Mux_R.vhd -lib work Mux_PC.vhd -lib work Banco_Registos.vhd -lib work ALU.vhd -lib work RAM.vhd -lib work Processador.vhd -lib work Memoria_Instrucoes.vhd -lib work Placa_Mae.vhd -prj TP1 -o Placa_Mae.spl -module Placa_Mae -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work ROM.vhd -lib work Registo_Flags.vhd -lib work Periferico_Saida.vhd -lib work Periferico_Entrada.vhd -lib work PC.vhd -lib work NotOr.vhd -lib work Mux_R.vhd -lib work Mux_PC.vhd -lib work Banco_Registos.vhd -lib work ALU.vhd -lib work RAM.vhd -lib work Processador.vhd -lib work Memoria_Instrucoes.vhd -lib work Placa_Mae.vhd -prj TP1 -o Placa_Mae.spl -module Placa_Mae -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+vhdtdtfi -lib work ROM.vhd -lib work Registo_Flags.vhd -lib work Periferico_Saida.vhd -lib work Periferico_Entrada.vhd -lib work PC.vhd -lib work NotOr.vhd -lib work Mux_R.vhd -lib work Mux_PC.vhd -lib work Banco_Registos.vhd -lib work ALU.vhd -lib work RAM.vhd -lib work Processador.vhd -lib work Memoria_Instrucoes.vhd -lib work Placa_Mae.vhd -prj TP1 -o Placa_Mae.spl -module Placa_Mae -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Placa_Mae.spl {D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.sym} 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+vhdtdtfi -lib work ROM.vhd -lib work Registo_Flags.vhd -lib work Periferico_Saida.vhd -lib work Periferico_Entrada.vhd -lib work PC.vhd -lib work NotOr.vhd -lib work Mux_R.vhd -lib work Mux_PC.vhd -lib work Banco_Registos.vhd -lib work ALU.vhd -lib work RAM.vhd -lib work Processador.vhd -lib work Memoria_Instrucoes.vhd -lib work Placa_Mae.vhd -prj TP1 -o Placa_Mae.spl -module Placa_Mae -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Placa_Mae.spl {D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.sym} 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+vhdtdtfi -lib work ROM.vhd -lib work Registo_Flags.vhd -lib work Periferico_Saida.vhd -lib work Periferico_Entrada.vhd -lib work PC.vhd -lib work NotOr.vhd -lib work Mux_R.vhd -lib work Mux_PC.vhd -lib work Banco_Registos.vhd -lib work ALU.vhd -lib work RAM.vhd -lib work Processador.vhd -lib work Memoria_Instrucoes.vhd -lib work Placa_Mae.vhd -prj TP1 -o Placa_Mae.spl -module Placa_Mae -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Placa_Mae.spl {D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.sym} 
+vhdtdtfi -lib work ROM.vhd -lib work Registo_Flags.vhd -lib work Periferico_Saida.vhd -lib work Periferico_Entrada.vhd -lib work PC.vhd -lib work NotOr.vhd -lib work Mux_R.vhd -lib work Mux_PC.vhd -lib work Banco_Registos.vhd -lib work ALU.vhd -lib work RAM.vhd -lib work Processador.vhd -lib work Memoria_Instrucoes.vhd -lib work Placa_Mae.vhd -prj TP1 -o Placa_Mae.spl -module Placa_Mae -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Placa_Mae.spl {D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.sym} 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim Placa_Mae.ngc Placa_Mae_synthesis.v 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 "Placa_Mae.ngc" Placa_Mae.ngd  
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Placa_Mae.ucf -p xc7a100t-csg324-3 "Placa_Mae.ngc" Placa_Mae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Placa_Mae_map.ncd Placa_Mae.ngd Placa_Mae.pcf 
+par -w -intstyle ise -ol high -mt off Placa_Mae_map.ncd Placa_Mae.ncd Placa_Mae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Placa_Mae.twx Placa_Mae.ncd -o Placa_Mae.twr Placa_Mae.pcf -ucf Placa_Mae.ucf 
+bitgen -intstyle ise -f Placa_Mae.ut Placa_Mae.ncd 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Placa_Mae.ucf -p xc7a100t-csg324-3 "Placa_Mae.ngc" Placa_Mae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Placa_Mae_map.ncd Placa_Mae.ngd Placa_Mae.pcf 
+par -w -intstyle ise -ol high -mt off Placa_Mae_map.ncd Placa_Mae.ncd Placa_Mae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Placa_Mae.twx Placa_Mae.ncd -o Placa_Mae.twr Placa_Mae.pcf -ucf Placa_Mae.ucf 
+bitgen -intstyle ise -f Placa_Mae.ut Placa_Mae.ncd 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Placa_Mae.ucf -p xc3s500e-fg320-4 "Placa_Mae.ngc" Placa_Mae.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Placa_Mae_map.ncd Placa_Mae.ngd Placa_Mae.pcf 
+par -w -intstyle ise -ol high -t 1 Placa_Mae_map.ncd Placa_Mae.ncd Placa_Mae.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Placa_Mae.twx Placa_Mae.ncd -o Placa_Mae.twr Placa_Mae.pcf -ucf Placa_Mae.ucf 
+bitgen -intstyle ise -f Placa_Mae.ut Placa_Mae.ncd 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Placa_Mae.ucf -p xc3s500e-fg320-4 "Placa_Mae.ngc" Placa_Mae.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Placa_Mae_map.ncd Placa_Mae.ngd Placa_Mae.pcf 
+par -w -intstyle ise -ol high -t 1 Placa_Mae_map.ncd Placa_Mae.ncd Placa_Mae.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Placa_Mae.twx Placa_Mae.ncd -o Placa_Mae.twr Placa_Mae.pcf -ucf Placa_Mae.ucf 
+bitgen -intstyle ise -f Placa_Mae.ut Placa_Mae.ncd 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Placa_Mae.ucf -p xc3s500e-fg320-4 "Placa_Mae.ngc" Placa_Mae.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Placa_Mae_map.ncd Placa_Mae.ngd Placa_Mae.pcf 
+par -w -intstyle ise -ol high -t 1 Placa_Mae_map.ncd Placa_Mae.ncd Placa_Mae.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Placa_Mae.twx Placa_Mae.ncd -o Placa_Mae.twr Placa_Mae.pcf -ucf Placa_Mae.ucf 
+bitgen -intstyle ise -f Placa_Mae.ut Placa_Mae.ncd 
+xst -intstyle ise -ifn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.xst" -ofn "D:/Users/afons/Desktop/TP1 Backup/Placa_Mae.syr" 
